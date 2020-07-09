@@ -32,5 +32,4 @@ len(x)
 
 # Print all the values in x multiplied by 1000
 
-multiplied_list = [element * 100 for element in x]
-print(multiplied_list)
+print([element * 100 for element in x])
