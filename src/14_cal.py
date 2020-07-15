@@ -31,7 +31,7 @@ import sys
 import calendar
 from datetime import datetime
 
-today = datetime.today()
+today = datetime.now()
 
 month, year = today.month, today.year
 
